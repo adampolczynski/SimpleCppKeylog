@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1504891362 source:d:\c++\logger\main.cpp
+	<cstdio>
+	<iostream>
+	<istream>
+	<ostream>
+	<string>
+	<windows.h>
+	<winhttp.h>
+
